@@ -10,7 +10,7 @@ Sono uno **Sviluppatore, Appassionato di Tech** con un forte interesse per **lo 
 
 ### 🚀 Stack Tecnologico Principale
 
-<div style="text-align: center;">
+<div style="position: center;">
   Ecco alcune delle tecnologie con cui mi piace lavorare:
 
 | Categoria | Tecnologie |
