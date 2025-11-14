@@ -15,7 +15,7 @@ Ecco alcune delle tecnologie con cui mi piace lavorare:
 | Categoria | Tecnologie |
 | :--- | :--- |
 | **Linguaggi** | `JavaScript` /  `Java` |
-| **Frontend** | `React` / `Vue.js` / `Next.js` / `<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>` / `CSS` / `Bootstrap` |
+| **Frontend** | `React` / `Vue.js` / `Next.js` / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> / `CSS` / `Bootstrap` |
 | **Backend & DB**| `Node.js` / `Express` / `MySQL` |
 | **Strumenti & DevOps**| `Git` |
 
