@@ -10,7 +10,8 @@ Sono uno **Sviluppatore, Appassionato di Tech** con un forte interesse per **lo 
 
 ### 🚀 Stack Tecnologico Principale
 
-Ecco alcune delle tecnologie con cui mi piace lavorare:
+<div style="text-align: center;">
+  Ecco alcune delle tecnologie con cui mi piace lavorare:
 
 | Categoria | Tecnologie |
 | :--- | :--- |
@@ -19,6 +20,7 @@ Ecco alcune delle tecnologie con cui mi piace lavorare:
 | **Backend & DB**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> |
 | **Strumenti & DevOps**|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> |
 
+</div>
 ---
 
 ### 📫 Connettiamoci!
