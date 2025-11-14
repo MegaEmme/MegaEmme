@@ -21,10 +21,6 @@ Ecco alcune delle tecnologie con cui mi piace lavorare:
 
 ---
 
-### 💡 Progetti & Obiettivi
-
----
-
 ### 📫 Connettiamoci!
 
 Sono sempre aperto a collaborazioni, nuove idee o semplicemente a scambiare due chiacchiere sulla tecnologia.
