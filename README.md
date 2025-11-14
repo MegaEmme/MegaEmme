@@ -14,7 +14,7 @@ Ecco alcune delle tecnologie con cui mi piace lavorare:
 
 | Categoria | Tecnologie |
 | :--- | :--- |
-| **Linguaggi** | `JavaScript` /  `Java` / `[Altro]` |
+| **Linguaggi** | `JavaScript` /  `Java` |
 | **Frontend** | `React` / `Vue.js` / `Next.js` / `HTML` / `CSS` / `Bootstrap` |
 | **Backend & DB**| `Node.js` / `Express` / `MySQL` |
 | **Strumenti & DevOps**| `Git` |
@@ -32,5 +32,3 @@ Sono sempre aperto a collaborazioni, nuove idee o semplicemente a scambiare due 
 * **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco-786569397
 * **Email:** mikmusco@gmail.com
 * **Portfolio:** IN ARRIVO...
-
-![Badge di GitHub Stats]
