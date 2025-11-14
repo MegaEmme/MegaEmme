@@ -70,7 +70,3 @@ I am always open to collaborations, new ideas, or just chatting about technology
 
 ---
 
-### 📌 Repositories to Explore
-
-* *[Link to Project 1]*
-* *[Link to Project 2]*
