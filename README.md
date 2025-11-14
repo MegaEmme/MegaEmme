@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Ciao, sono Michelangelo!
 
-<!--
-**MegaEmme/MegaEmme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Chi Sono e Cosa Faccio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sono uno **Sviluppatore, Appassionato di Tech** con un forte interesse per **lo Sviluppo Web Full Stack**.
+
+---
+
+### 🚀 Stack Tecnologico Principale
+
+Ecco alcune delle tecnologie con cui mi piace lavorare:
+
+| Categoria | Tecnologie |
+| :--- | :--- |
+| **Linguaggi** | `JavaScript` /  `Java` / `[Altro]` |
+| **Frontend** | `React` / `Vue.js` / `Next.js` / `HTML` / `CSS` / `Bootstrap` |
+| **Backend & DB**| `Node.js` / `Express` / `MySQL` |
+| **Strumenti & DevOps**| `Git` |
+
+---
+
+### 💡 Progetti & Obiettivi
+
+---
+
+### 📫 Connettiamoci!
+
+Sono sempre aperto a collaborazioni, nuove idee o semplicemente a scambiare due chiacchiere sulla tecnologia.
+
+* **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco-786569397
+* **Email:** mikmusco@gmail.com
+* **Portfolio:** IN ARRIVO...
+
+![Badge di GitHub Stats]
