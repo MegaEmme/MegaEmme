@@ -25,7 +25,7 @@ Ecco alcune delle tecnologie con cui mi piace lavorare:
 
 Sono sempre aperto a collaborazioni, nuove idee o semplicemente a scambiare due chiacchiere sulla tecnologia.
 
-* **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco-786569397
+* **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco
 * **Email:** mikmusco@gmail.com
 * **Portfolio:** IN ARRIVO...
 
@@ -64,7 +64,7 @@ My primary focus is on developing robust **Full Stack solutions** using **React*
 
 I am always open to collaborations, new ideas, or just chatting about technology. Feel free to reach out!
 
-* **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco-786569397
+* **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco
 * **Email:** mikmusco@gmail.com
 * **Portfolio:** COMING SOON...
 
