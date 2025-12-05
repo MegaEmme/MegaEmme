@@ -27,7 +27,7 @@ Sono sempre aperto a collaborazioni, nuove idee o semplicemente a scambiare due 
 
 * **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco
 * **Email:** mikmusco@gmail.com
-* **Portfolio:** IN ARRIVO...
+
 
 ---
 
@@ -66,7 +66,7 @@ I am always open to collaborations, new ideas, or just chatting about technology
 
 * **LinkedIn:** https://www.linkedin.com/in/michelangelo-musco
 * **Email:** mikmusco@gmail.com
-* **Portfolio:** COMING SOON...
+
 
 ---
 
